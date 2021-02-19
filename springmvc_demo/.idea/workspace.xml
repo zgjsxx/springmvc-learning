@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20fadde3-ed7c-435a-aa0c-28dc37aa685e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1oeIMmgm6O1zG9T7K5yv5Ic1gm4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="springmvc_demo[tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20fadde3-ed7c-435a-aa0c-28dc37aa685e" name="Default Changelist" comment="" />
+      <created>1613640583847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613640583847</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613695955940">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="96" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1613695955940" />
+    <state width="1202" height="156" key="GridCell.Tab.0.bottom" timestamp="1613696452007">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1202" height="156" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1613696452007" />
+    <state width="1202" height="156" key="GridCell.Tab.0.center" timestamp="1613696452006">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1202" height="156" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1613696452006" />
+    <state width="1202" height="156" key="GridCell.Tab.0.left" timestamp="1613696452006">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1202" height="156" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1613696452006" />
+    <state width="1202" height="156" key="GridCell.Tab.0.right" timestamp="1613696452006">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1202" height="156" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1613696452006" />
+  </component>
+</project>
